@@ -1,0 +1,29 @@
+*{
+    margin:1vh;
+}
+body{
+    font-family:'Lobster', cursive;
+}
+h1{
+    font-size: 40px;
+}
+.name-style1{
+    font-size: 50px;
+    font-weight: 900;
+    color: orange;
+}
+.name-style2{
+    font-size: 50px;
+    font-weight: 900;
+    color: greenyellow;
+}
+.half-width{
+    margin-top: 5%;
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+}
+.half-width img{
+    width: 80%;
+}
